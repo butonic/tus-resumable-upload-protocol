@@ -527,7 +527,6 @@ checksum algorithm and the Base64 encoded checksum separated by a space.
 ```
 OPTIONS /files HTTP/1.1
 Host: tus.example.org
-Tus-Resumable: 1.0.0
 ```
 
 **Response**:
